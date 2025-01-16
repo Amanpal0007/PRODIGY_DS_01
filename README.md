@@ -36,5 +36,5 @@ Thank you for reviewing my submission!
 
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/aman-pal-3b369033a/>Aman Pal (LinkedIn)</a>
+- LinkedIn: https://www.linkedin.com/in/aman-pal-3b369033a
 - Email: amanpq36@gmail.com
